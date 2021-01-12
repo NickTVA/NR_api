@@ -12,7 +12,7 @@ current_milli_time = lambda: int(round(time.time() * 1000))
 if __name__ == '__main__':
 
     metrics_url = 'https://metric-api.newrelic.com/metric/v1'
-    header_data = {"Api-Key": "NRII-xeynHqC-Tz23ySIygutYX8rv4wtm_R4h"}
+    header_data = {"Api-Key": "NRII-XXXXXXX"}
     # data = '''[{
     #     "metrics":[{
     #        "name":"nick.testgauge",
